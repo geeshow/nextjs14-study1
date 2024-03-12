@@ -1,9 +1,9 @@
 import Card from "@/components/card";
 
-function Revenue() {
+function DefaultRevenue() {
   return (
-      <Card>Revenue</Card>
+      <Card>DefaultRevenue</Card>
   );
 }
 
-export default Revenue;
+export default DefaultRevenue;

@@ -1,9 +1,9 @@
 import Card from "@/components/card";
 
-function UsersAnalytics() {
+function DefaultUsersAnalytics() {
   return (
-      <Card>UsersAnalytics</Card>
+      <Card>DefaultUsersAnalytics</Card>
   );
 }
 
-export default UsersAnalytics;
+export default DefaultUsersAnalytics;
